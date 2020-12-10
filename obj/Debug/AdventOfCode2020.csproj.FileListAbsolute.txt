@@ -1,0 +1,7 @@
+C:\Users\Dobbydoo\Source\Repos\AdventOfCode2020\AdventOfCode2020\bin\Debug\AdventOfCode2020.exe.config
+C:\Users\Dobbydoo\Source\Repos\AdventOfCode2020\AdventOfCode2020\bin\Debug\AdventOfCode2020.exe
+C:\Users\Dobbydoo\Source\Repos\AdventOfCode2020\AdventOfCode2020\bin\Debug\AdventOfCode2020.pdb
+C:\Users\Dobbydoo\Source\Repos\AdventOfCode2020\AdventOfCode2020\obj\Debug\AdventOfCode2020.csprojAssemblyReference.cache
+C:\Users\Dobbydoo\Source\Repos\AdventOfCode2020\AdventOfCode2020\obj\Debug\AdventOfCode2020.csproj.CoreCompileInputs.cache
+C:\Users\Dobbydoo\Source\Repos\AdventOfCode2020\AdventOfCode2020\obj\Debug\AdventOfCode2020.exe
+C:\Users\Dobbydoo\Source\Repos\AdventOfCode2020\AdventOfCode2020\obj\Debug\AdventOfCode2020.pdb
