@@ -3,7 +3,7 @@
         static void Main(string[] args)
         {
             // 370
-            Day10.Program.Run();
+            Day11.Program.Run();
         }
     }    
 }
